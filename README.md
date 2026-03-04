@@ -144,11 +144,7 @@ weibo_publish/
 > 📲 **扫描下方二维码，添加微信好友，备注「CoPaw」即可拉入群**
 
 <div align="center">
-  <img src="./assets/wechat_qr.jpg" alt="微信二维码" width="280" />
-  <br/>
-  <b>jim · 广东深圳</b>
-  <br/>
-  <sub>扫一扫上面的二维码图案，加我为朋友</sub>
+  <img src="./assets/wechat_qr.png" alt="微信二维码" width="280" />
 </div>
 
 **群内你可以：**
